@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+1 - [Rubik's Cube](https://rakibdepu.github.io/RubiksCube/)
+2 - [The Mysterious Island](https://rakibdepu.github.io/The_Mysterious_Island/)
