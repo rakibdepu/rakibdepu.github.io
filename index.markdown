@@ -11,4 +11,4 @@ layout: home
 
 3 - [Lubna Bint Hafiz](https://rakibdepu.github.io/Lubna-Binte-Hafiz/)
 
-4 - [Browser Test](https://rakibdepu.github.io/browsertest/)
+4 - [Browser Test](https://rakibdepu.github.io/browser-test/)
