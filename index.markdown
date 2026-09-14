@@ -14,3 +14,5 @@ layout: home
 4 - [Browser Test](https://rakibdepu.github.io/browser-test/)
 
 5 - [ARAT](https://rakibdepu.github.io/ARAT-Panel/)
+
+6 - [Chess Analyzer](https://rakibdepu.github.io/Chess-Analyzer/)
