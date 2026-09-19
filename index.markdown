@@ -5,14 +5,16 @@
 layout: home
 ---
 
-1 - [Rubik's Cube](https://rakibdepu.github.io/RubiksCube/)
+1 - [Synchronized 2D + 3D Rubik's Cube](https://rakibdepu.github.io/rubik-dual-view/)
 
-2 - [The Mysterious Island](https://rakibdepu.github.io/The_Mysterious_Island/)
+2 - [Rubik's Cube](https://rakibdepu.github.io/RubiksCube/)
 
-3 - [Lubna Bint Hafiz](https://rakibdepu.github.io/Lubna-Binte-Hafiz/)
+3 - [The Mysterious Island](https://rakibdepu.github.io/The_Mysterious_Island/)
 
-4 - [Browser Test](https://rakibdepu.github.io/browser-test/)
+4 - [Lubna Bint Hafiz](https://rakibdepu.github.io/Lubna-Binte-Hafiz/)
 
-5 - [ARAT](https://rakibdepu.github.io/ARAT-Panel/)
+5 - [Browser Test](https://rakibdepu.github.io/browser-test/)
 
-6 - [Chess Analyzer](https://rakibdepu.github.io/Chess-Analyzer/)
+6 - [ARAT](https://rakibdepu.github.io/ARAT-Panel/)
+
+7 - [Chess Analyzer](https://rakibdepu.github.io/Chess-Analyzer/)
